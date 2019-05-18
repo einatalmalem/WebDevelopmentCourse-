@@ -1,0 +1,28 @@
+body 
+{
+    direction:rtl;
+    background-image:url(../images/untitled.png);
+    background-repeat:no-repeat;
+    background-color:whitesmoke;
+
+}
+
+#form{
+    margin-bottom:auto;
+}
+   #headline{
+       font-size:60px;
+       font-variant-position:super;
+       font-style:italic;
+      text-decoration-color:blue;
+   }
+
+#paragraf{
+    font-size:30px;
+    color:cornflowerblue;
+    
+}
+#details{
+    background-color:cornflowerblue;
+   
+}
